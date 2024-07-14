@@ -1,48 +1,18 @@
-# Portafolio Adaptable (Responsive) con Bootstrap 5
-
-Este proyecto creado para el bootcamp Tecnolochicas PRO, es una página web adaptable a dispositivos de distintos tamaños (este tipo de sitio web se conoce en inglés como "responsive"). 
+# Portafolio Adaptable 
 
 El propósito de esta página web es mostrar el portafolio de proyectos de un(a) desarrollador(a) y su experiencia. Incluye una descripción breve de su motivación, experiencia, proyectos, artículos publicados y formas de contacto. 
-
-También incluye imágenes alternativas en la carpeta `imagenes` en caso de que se desee personalizar la imagen principal del desarrollador, además de animación a la escritura de la página web con JavaScript.
-
-### Capturas de pantalla:
-
-Primera parte de la página web:
-
-![Primera parte de la página web](imagenes/screenshot1.png)
-
-Experiencia:
-
-![Experiencia](imagenes/screenshot2.png)
-
-Proyectos:
-
-![Proyectos](imagenes/screenshot3.png)
-
-Testimonios:
-
-![Testimonios](imagenes/screenshot4.png)
-
-Contacto:
-
-![Contacto](imagenes/screenshot5.png)
 
 ## Tecnologías
 
 Esta página web fue creada con:
 
-* HTML
-* CSS
-* JavaScript 
-* Bootstrap 5
+* HTML <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+* CSS <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+* JavaScript <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
 Además, se incluyeron **Google Fonts** para personalizar la fuente y **Bootstrap icons** para incorporar íconos como flechas y logos de redes sociales populares. 
 
-## Español
-
-El texto de la página web está escrito en español, al igual que las clases y atributos personalizados. Las clases relacionadas con Bootstrap se incluyeron en inglés.
-
-
+## Link de visualización
+Para visualizar el trabajo terminado da clic en el siguiente link: [portafolio](https://portafolio-elena2024.netlify.app)
 
 
